@@ -34,7 +34,7 @@
     <profile>
         <properties>
         <id>sonar</id>
-        <sonar.host.url>http://18.217.8.37:9000</url>
+        <sonar.host.url>http://18.217.8.37:9000</sonar.host.url>
         </properties>
     </profile>
 </profiles>
