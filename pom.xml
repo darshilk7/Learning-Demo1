@@ -29,6 +29,12 @@
             <scope>test</scope>
         </dependency>
         
+<profiles>
+    <profile>
+        <id>sonar</id>
+        <url>http://18.217.8.37:9000</url>
+    </profile>
+</profiles>
         
     </dependencies>
     
